@@ -1,0 +1,8 @@
+<accessibility-service
+    android:accessibilityEventTypes="typeViewClicked|typeViewFocused|typeAllMask"
+    android:accessibilityFlags="flagDefault|flagRequestTouchExplorationMode|flagReportViewIds|flagIncludeNotImportantViews"
+    android:packageNames=""
+    android:accessibilityFeedbackType="feedbackVisual"
+    android:notificationTimeout="100"
+    android:canRetrieveWindowContent="true"
+xmlns:android="http://schemas.android.com/apk/res/android" />
